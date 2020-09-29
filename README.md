@@ -1,1 +1,0 @@
-# resume-skills-extractor
